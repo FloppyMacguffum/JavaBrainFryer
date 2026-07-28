@@ -20,7 +20,7 @@ Cleanup the build with
 # Using as a library
 Obviously the first thing you'll need to do is simply add `javabrainfryer.jar` to your class path.
 Here's some example code for using JavaBrainFryer as a library.
-```
+```java
 import me.floppymacguffum.javabrainfryer.JavaBrainFryer;
 
 public class Example
